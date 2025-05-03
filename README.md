@@ -14,8 +14,8 @@ A macro dragon.
 - Python
   - Most commonly used programming language
   - Featured works:
-    - (Machine learning) Paper submission to NCS 2019 (臺灣網際網路研討會暨全國計算機會議) during college
-    - (Executable Project) Albion Attendance Bot for Griffin Empire
+    - (Machine learning) Paper submission to [NCS 2019 (臺灣網際網路研討會暨全國計算機會議)](https://com.nptu.edu.tw/var/file/109/1109/img/3446/111843346.pdf) during college
+    - (Executable Project) [Albion Attendance Bot for Griffin Empire](https://github.com/DragonTaki/Albion-Script)
 
 - C、C++
   - Basic skills, to solve online tests
@@ -43,7 +43,7 @@ A macro dragon.
 
 - Google Script (GS)
   - Featured works:
-    - (Bot Script) Albion Attendance Bot for Malicious Crew
+    - (Bot Script) [Albion Attendance Bot for Malicious Crew](https://github.com/DragonTaki/Albion-Script)
 
 ## 📖 Translation Contribution
 (#Since 2016, 220k+ words translated until Jan 2025)
