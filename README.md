@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Dragon Taki, a programmer by profession and a proofreader by passion. I graduated from the Department of Computer Science and Information Engineering.
 
 ## 🐾 About DragonTaki
 A macro dragon.
-
-
 
 ## 🛠️ Projects & Contributions
 (#Record since 2025)
 - [Albion Attendance Bot](https://github.com/DragonTaki/Albion-Script)
 
-
-## 🧩 Skills & Tools I Use
+## 🧩 Programming Languages
 - Python
   - Most commonly used programming language
   - Featured works:
