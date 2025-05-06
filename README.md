@@ -5,7 +5,8 @@ A macro dragon.
 
 ## 🛠️ Projects & Contributions
 (#Record since 2025)
-- [Albion Attendance Bot](https://github.com/DragonTaki/Albion-Script)
+- [Albion Attendance Bot](https://github.com/DragonTaki/Albion-Script): Google Script, Python
+- [Chinese Chess v3.0](https://github.com/DragonTaki/Chinese-Chess-v3): C#
 
 ## 🧩 Programming Languages
 - Python
