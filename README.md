@@ -21,6 +21,7 @@ A macro dragon.
 - C#
   - Featured works:
     - (Executable Project) Minecraft Command Generator v2.0
+    - (Executable Project) [Chinese Chess v3.0](https://github.com/DragonTaki/Chinese-Chess-v3)
 
 - Java
   - For writing windowed programs
