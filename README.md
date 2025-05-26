@@ -4,7 +4,7 @@ Hi, I'm Dragon Taki, a programmer by profession and a proofreader by passion. I 
 A macro dragon.
 
 ## 🛠️ Projects & Contributions
-(#Record since 2025)
+(#Record since 2025)  
 (Sort: new to old)
 - [Chinese Chess v3.0](https://github.com/DragonTaki/Chinese-Chess-v3): C#
 - [Albion Attendance Bot](https://github.com/DragonTaki/Albion-Script): Google Script, Python
@@ -47,7 +47,7 @@ A macro dragon.
     - (Executable Project) Minecraft Command Generator v1.0
 
 ## 📖 Translation Contribution
-(#Since 2016, 220k+ words translated until Jan 2025)
+(#Since 2016, 220k+ words translated until Jan 2025)  
 (Sort: new to old)
 - Continually updated
   - [Minecraft](https://crowdin.com/project/minecraft): Proofreader, one of mainly contributor, keep on update
