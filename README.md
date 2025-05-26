@@ -5,36 +5,31 @@ A macro dragon.
 
 ## 🛠️ Projects & Contributions
 (#Record since 2025)
-- [Albion Attendance Bot](https://github.com/DragonTaki/Albion-Script): Google Script, Python
+(Sort: new to old)
 - [Chinese Chess v3.0](https://github.com/DragonTaki/Chinese-Chess-v3): C#
+- [Albion Attendance Bot](https://github.com/DragonTaki/Albion-Script): Google Script, Python
 
 ## 🧩 Programming Languages
+(Sort: most used to less used)
 - Python
   - Most commonly used programming language
   - Featured works:
     - (Machine learning) Paper submission to [NCS 2019 (臺灣網際網路研討會暨全國計算機會議)](https://com.nptu.edu.tw/var/file/109/1109/img/3446/111843346.pdf) during college
     - (Executable Project) [Albion Attendance Bot for Griffin Empire](https://github.com/DragonTaki/Albion-Script)
 
-- C、C++
-  - Basic skills, to solve online tests
-  - Some fancy small dos programs
-
 - C#
   - Featured works:
     - (Executable Project) Minecraft Command Generator v2.0
     - (Executable Project) [Chinese Chess v3.0](https://github.com/DragonTaki/Chinese-Chess-v3)
 
+- C、C++
+  - Basic skills, to solve online tests
+  - Some fancy small dos programs
+
 - Java
   - For writing windowed programs
   - Featured works:
     - (Executable Project) Chinese Chess v2.0
-
-- Visual Basic 6.0:
-  - Learned in high school
-  - For writing windowed programs
-  - Featured works:
-    - (Executable Project) Chinese Chess v1.0
-    - (Executable Project) Minecraft Command Generator v1.0
 
 - Javascript
   - Featured works:
@@ -44,8 +39,16 @@ A macro dragon.
   - Featured works:
     - (Bot Script) [Albion Attendance Bot for Malicious Crew](https://github.com/DragonTaki/Albion-Script)
 
+- Visual Basic 6.0:
+  - Learned in high school
+  - For writing windowed programs
+  - Featured works:
+    - (Executable Project) Chinese Chess v1.0
+    - (Executable Project) Minecraft Command Generator v1.0
+
 ## 📖 Translation Contribution
 (#Since 2016, 220k+ words translated until Jan 2025)
+(Sort: new to old)
 - Continually updated
   - [Minecraft](https://crowdin.com/project/minecraft): Proofreader, one of mainly contributor, keep on update
   - [Minecraft Launcher](https://crowdin.com/project/minecraft-launcher): Proofreader, one of mainly contributor, keep on update
