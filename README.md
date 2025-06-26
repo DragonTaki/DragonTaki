@@ -6,6 +6,7 @@ A macro dragon.
 ## 🛠️ Projects & Contributions
 (#Record since 2025)  
 (Sort: new to old)
+- [SudokuSniper](https://github.com/DragonTaki/SudokuSniper): C#, Python
 - [Chinese Chess v3.0](https://github.com/DragonTaki/Chinese-Chess-v3): C#
 - [Albion Attendance Bot](https://github.com/DragonTaki/Albion-Script): Google Script, Python
 
