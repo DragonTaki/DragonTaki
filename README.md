@@ -56,6 +56,9 @@ A macro dragon.
   - [ArchiSteamFarm](https://crowdin.com/project/archisteamfarm): Proofreader, mainly contributor, keep on update
   - [VPet](https://github.com/LorisYounger/VPet): Mainly contributor
 
+- Recent updated
+  - [Garry's Mod](https://crowdin.com/project/garrysmod): Mainly contributor
+
 - Finished
   - Some of [Steam Game Guides](https://steamcommunity.com/id/DragonTaki/myworkshopfiles/?section=guides) click to read more
   - [Grid (Minecraft Mod)](https://crowdin.com/project/grid): Mainly contributor
