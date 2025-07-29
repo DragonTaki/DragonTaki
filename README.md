@@ -57,7 +57,7 @@ A macro dragon.
   - [VPet](https://github.com/LorisYounger/VPet): Mainly contributor
 
 - Recent updated
-  - [Garry's Mod](https://crowdin.com/project/garrysmod): Mainly contributor
+  - [Garry's Mod](https://crowdin.com/project/garrysmod): Proofreader, mainly contributor, WIP
 
 - Finished
   - Some of [Steam Game Guides](https://steamcommunity.com/id/DragonTaki/myworkshopfiles/?section=guides) click to read more
