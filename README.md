@@ -6,6 +6,7 @@ A macro dragon.
 ## 🛠️ Projects & Contributions
 (#Record since 2025)  
 (Sort: new to old)
+- [Chinese-Chess-v3-Sever](https://github.com/DragonTaki/Chinese-Chess-v3-Sever): Go
 - [MathExpressions-Solver](https://github.com/DragonTaki/MathExpressions-Solver): C++
 - [SudokuSniper](https://github.com/DragonTaki/SudokuSniper): C#, Python
 - [Chinese Chess v3.0](https://github.com/DragonTaki/Chinese-Chess-v3): C#
@@ -22,11 +23,9 @@ A macro dragon.
 - C#
   - Featured works:
     - (Executable Project) Minecraft Command Generator v2.0
-    - (Executable Project) [Chinese Chess v3.0](https://github.com/DragonTaki/Chinese-Chess-v3)
+    - (Client) [Chinese Chess v3.0](https://github.com/DragonTaki/Chinese-Chess-v3)
 
 - C、C++
-  - Basic skills, to solve online tests
-  - Some fancy small dos programs
   - Featured works:
     - (Executable Project) [MathExpressions-Solver](https://github.com/DragonTaki/MathExpressions-Solver)
 
@@ -34,6 +33,11 @@ A macro dragon.
   - For writing windowed programs
   - Featured works:
     - (Executable Project) Chinese Chess v2.0
+
+- Go
+  - For writing server
+  - Featured works:
+    - (Server) [Chinese Chess v3.0 Server](https://github.com/DragonTaki/Chinese-Chess-v3-Sever)
 
 - Javascript
   - Featured works:
