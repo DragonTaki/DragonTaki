@@ -6,9 +6,9 @@ A macro dragon.
 ## 🛠️ Projects & Contributions
 (#Record since 2025)  
 (Sort: new to old)
-- [Chinese-Chess-v3-Sever](https://github.com/DragonTaki/Chinese-Chess-v3-Sever): Go
-- [MathExpressions-Solver](https://github.com/DragonTaki/MathExpressions-Solver): C++
-- [SudokuSniper](https://github.com/DragonTaki/SudokuSniper): C#, Python
+- [Chinese Chess v3.0 Sever](https://github.com/DragonTaki/Chinese-Chess-v3-Sever): Go
+- [MathExpressions Solver](https://github.com/DragonTaki/MathExpressions-Solver): C++
+- [Sudoku Sniper](https://github.com/DragonTaki/SudokuSniper): C#, Python
 - [Chinese Chess v3.0](https://github.com/DragonTaki/Chinese-Chess-v3): C#
 - [Albion Attendance Bot](https://github.com/DragonTaki/Albion-Script): Google Script, Python
 
@@ -27,7 +27,7 @@ A macro dragon.
 
 - C、C++
   - Featured works:
-    - (Executable Project) [MathExpressions-Solver](https://github.com/DragonTaki/MathExpressions-Solver)
+    - (Executable Project) [MathExpressions Solver](https://github.com/DragonTaki/MathExpressions-Solver)
 
 - Java
   - For writing windowed programs
